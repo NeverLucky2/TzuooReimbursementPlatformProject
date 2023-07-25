@@ -1,3 +1,6 @@
 [submodule "Tzuoo-reimbursement-backend"]
 	path = Tzuoo-reimbursement-backend
 	url = https://github.com/230306-RubyOnRail/MM-project1-backend.git
+[submodule "Tzuoo-reimbursement-frontend"]
+	path = Tzuoo-reimbursement-frontend
+	url = https://github.com/230306-RubyOnRail/MM-frontend-project1.git
